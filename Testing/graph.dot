@@ -1,0 +1,8 @@
+digraph G{ 
+node [shape=circle, fillcolor=lightgreen, style=filled];
+10 -> 5
+10 -> 15
+5 -> 3
+5 -> 7
+15 -> 12
+}
